@@ -1,0 +1,4 @@
+repository "pachinko@aammuu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
